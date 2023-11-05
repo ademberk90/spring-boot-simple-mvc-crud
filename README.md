@@ -19,26 +19,26 @@ Just you need is add sql connection properties in application.properties file.
 
 Here is a example: 
 
-![application properties](/images/prop.png)
+![application properties](https://raw.githubusercontent.com/ademberk90/spring-boot-simple-mvc-crud/main/images/application_properties.PNG)
 
 
 ### Preview
 
 #### List user
 
-![list](/images/list.png)
+![list](https://raw.githubusercontent.com/ademberk90/spring-boot-simple-mvc-crud/main/images/list.PNG)
 
 #### Add user
 
-![add](/images/add.png)
+![add](https://raw.githubusercontent.com/ademberk90/spring-boot-simple-mvc-crud/main/images/add.PNG)
 
 #### Update user
 
-![update](/images/update.png)
+![update](https://raw.githubusercontent.com/ademberk90/spring-boot-simple-mvc-crud/main/images/update.PNG)
 
 #### Delete user
 
-![delete](/images/delete.png)
+![delete](https://raw.githubusercontent.com/ademberk90/spring-boot-simple-mvc-crud/main/images/delete.PNG)
 
 
 
