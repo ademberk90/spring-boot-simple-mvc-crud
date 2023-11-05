@@ -1,4 +1,4 @@
-# Spring Boot Simple Mvc Crud
+# Spring Boot Simple Mvc CRUD
 
 ### Description
 Here is a simple example of how we can make CRUD operations using Spring MVC.  
@@ -16,6 +16,8 @@ In this repo you can find Sql script that make your test easier. Just copy, past
 (You dont need a create a database and table manually)
 
 Just you need is add sql connection properties in application.properties file.
+
+Add `application.properties` file in "src/main/resource" 
 
 Here is a example: 
 
