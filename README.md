@@ -19,26 +19,26 @@ Just you need is add sql connection properties in application.properties file.
 
 Here is a example: 
 
-![application properties](./images/prop.png)
+![application properties](/images/prop.png)
 
 
 ### Preview
 
 #### List user
 
-![list](./images/list.png)
+![list](/images/list.png)
 
 #### Add user
 
-![add](./images/add.png)
+![add](/images/add.png)
 
 #### Update user
 
-![update](./images/update.png)
+![update](/images/update.png)
 
 #### Delete user
 
-![delete](./images/delete.png)
+![delete](/images/delete.png)
 
 
 
