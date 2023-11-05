@@ -1,4 +1,4 @@
-# Spring Boot Simple Mvc CRUD
+# Spring Boot Simple MVC CRUD
 
 ### Description
 Here is a simple example of how we can make CRUD operations using Spring MVC.  
